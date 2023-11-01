@@ -1,2 +1,3 @@
-# c64-stuff
-Commodore 64 Stuff 
+# c64-stuff (WIP)
+
+This repository contains documents, guides and software related to Commodore 64
